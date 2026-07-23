@@ -7,6 +7,7 @@ this is feature 2.0
 # this is change from bug2 branch
 #  new change
 
+this is priority
 
 # commit 1
 
